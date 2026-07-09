@@ -3,7 +3,7 @@
     "path": "~/my-project/Code.qmd",
     "project_path": "Code.qmd",
     "type": "quarto_markdown",
-    "hash": "3020315013",
+    "hash": "3973466633",
     "contents": "",
     "dirty": false,
     "created": 1783591408773.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,7",
-        "scrollLine": "1"
+        "cursorPosition": "66,121",
+        "scrollLine": "60"
     },
     "folds": "",
-    "lastKnownWriteTime": 1783591749,
+    "lastKnownWriteTime": 1783593697,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1783591749415,
+    "last_content_update": 1783593697467,
     "read_only": false,
     "read_only_alternatives": []
 }
