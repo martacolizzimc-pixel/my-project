@@ -16,22 +16,59 @@ format:
       light: minty
       dark: superhero
 self-contained: true      
-lang: it      
+lang: it  
+bibliography: biblio.bib
+reference-location: margin
+citation-location: margin 
+
       
 ---
 # Presentation 
 
-This is Marta's website!
+This is Marta's website! @ggplot
+
+
+
+![Logo](img/Unipd_logo.jpg){#fig-logo}
+
+@fig-logo presents logo
+
+[Link to something](https://www.unipd.it/)
 
 ## Sub presentation 
 
-Sub section 
+$X = V + E$
+
+$$z = \dfrac{\bar{x} -\mu}{\sigma}$${#eq-myequation}
 
 ### Sub sub section
 
-sub sub section 
+In @eq-myequation, we wrote down an equation 
+
+@eq-cttt shows basic equation
+
+
+
+:::{.column-margin}
+
+$$z = \dfrac{x - \mu}{\sigma}$$
+
+:::
+
+
 
 #### My paragraph 
 
 This is a paragraph
 
+:::{.grid}
+:::{.g-col-4}
+First
+:::
+:::{.g-col-4}
+Second
+:::
+:::{.g-col.4}
+Third
+:::
+:::
