@@ -1,1 +1,1 @@
-{"entries":[{"caption":"","key":"eq-myequation","order":{"number":1,"section":[1,1,0,0,0,0,0]}},{"caption":"Logo","key":"fig-logo","order":{"number":1,"section":[1,0,0,0,0,0,0]}}],"headings":["presentation","sub-presentation","sub-sub-section","my-paragraph"]}
+{"entries":[{"caption":"Logo","key":"fig-logo","order":{"number":1,"section":[1,0,0,0,0,0,0]}},{"caption":"","key":"eq-myequation","order":{"number":1,"section":[1,1,0,0,0,0,0]}}],"headings":["presentation","sub-presentation","sub-sub-section","my-paragraph"]}
